@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/ZdenekHruska/GitHub%20Integration/_apis/build/status/zdenek89.ContosoAir?branchName=master)](https://dev.azure.com/ZdenekHruska/GitHub%20Integration/_build/latest?definitionId=3&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
